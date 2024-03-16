@@ -1,10 +1,4 @@
 <div align="center">
-  
-  /*![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/crafti)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/crafti?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/crafti?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/IcJFLGOY0DU?style=social)](https://youtu.be/IcJFLGOY0DU)*/
 
   <br />
   <br />
@@ -19,9 +13,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Crafti Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
