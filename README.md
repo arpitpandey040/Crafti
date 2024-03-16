@@ -13,7 +13,7 @@
 
   Crafti is a fully responsive agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/crafti/"><strong>➥ Live Demo</strong></a>
+  <a href="https://arpitpandey040.github.io/Crafti/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
